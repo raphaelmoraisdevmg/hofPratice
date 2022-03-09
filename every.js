@@ -10,3 +10,5 @@ const computers=[
 
 const result = computers.every(computer => computer.ssd >180)
 console.log(result);//false
+
+//corrigindo o commit errado
